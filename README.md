@@ -6,8 +6,8 @@ e rilasciare patch in maniera del tutto legale, supportando le case produttrici 
 ------------------------------------------
 
 Social: 
-- Facebook: https://www.facebook.com/GamePatchingTeam
-- Instagram: https://www.instagram.com/gamepatchingteam
-- Telegram: https://t.me/GamePatchingTeam
+- [Facebook](https://www.facebook.com/GamePatchingTeam)
+- [Instagram](https://www.instagram.com/gamepatchingteam)
+- [Telegram](https://t.me/GamePatchingTeam)
 
 Let's Patch! ⚡
